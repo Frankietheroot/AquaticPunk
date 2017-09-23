@@ -1,5 +1,5 @@
-#AquaticPunk
-##豆腐文章整理
+# AquaticPunk
+豆腐文章整理
 
 Aquatic是水的意思，Punk是朋克的意思
 <br>我还没想好应该叫深水朋克还是阿夸狄克朋克
